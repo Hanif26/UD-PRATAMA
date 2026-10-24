@@ -50,3 +50,6 @@ app/
 - Foto katalog masih memakai URL gambar Unsplash sebagai ilustrasi. Ganti dengan foto produk asli sebelum website dipublikasikan.
 - Konten katalog dan harga/ketersediaan perlu dikonfirmasi langsung ke pemilik usaha.
 - Situs belum memiliki CMS, database, autentikasi, atau sistem checkout.
+=======
+
+
