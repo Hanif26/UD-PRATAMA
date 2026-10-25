@@ -9,23 +9,7 @@ Website profil dan katalog UD Pratama Mulya yang telah dipindahkan ke **Next.js 
 - CSS responsif untuk desain, animasi, dan sidebar
 - Tanpa database/backend; konten masih statis
 
-## Menjalankan di komputer lokal
 
-Pastikan Node.js 20.9 atau lebih baru sudah terpasang, lalu jalankan:
-
-```bash
-npm install
-npm run dev
-```
-
-Buka http://localhost:3000.
-
-Untuk mengecek build produksi:
-
-```bash
-npm run build
-npm start
-```
 
 ## Struktur folder
 
@@ -46,10 +30,6 @@ app/
 - Informasi kontak dan catatan pre-order H-3
 - Metadata SEO dasar dan tampilan responsif
 
-## Catatan sebelum publikasi
-- Foto katalog masih memakai URL gambar Unsplash sebagai ilustrasi. Ganti dengan foto produk asli sebelum website dipublikasikan.
-- Konten katalog dan harga/ketersediaan perlu dikonfirmasi langsung ke pemilik usaha.
-- Situs belum memiliki CMS, database, autentikasi, atau sistem checkout.
-=======
+
 
 
